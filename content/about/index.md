@@ -1,4 +1,4 @@
 +++
-title = "About Syna"
-date = "2017-10-05"
+title = "About Starling Foundries"
+date = "2019-07-05"
 +++
