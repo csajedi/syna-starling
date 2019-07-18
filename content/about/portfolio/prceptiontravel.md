@@ -3,8 +3,7 @@ title = "Prception Travel"
 weight = 30
 
 [asset]
-  image = "caddy.svg"
-  url = "#"
+  icon = "fas fa-globe"
 +++
 
-Showcasing descriptions for column based items
+Connecting the world's communities through peer-produced content.

@@ -1,10 +1,9 @@
 +++
-title = "AutomataCoin"
+title = "AutomaCoin"
 weight = 20
 
 [asset]
-  image = "caddy.svg"
-  url = "#"
+  icon = "fab fa-connectdevelop"
 +++
 
-Showcasing descriptions for column based items
+*"To whoever computes for science the world is revealed".*

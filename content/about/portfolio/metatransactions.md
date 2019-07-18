@@ -3,8 +3,7 @@ title = "Metatransactions for Zilliqa"
 weight = 10
 
 [asset]
-  image = "caddy.svg"
-  url = "#"
+  icon = "fas fa-angle-double-right"
 +++
 
-Showcasing descriptions for column based items
+Achieving an essential user-experience upgrade on the world's first sharded blockchain.
