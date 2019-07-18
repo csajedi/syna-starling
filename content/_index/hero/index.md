@@ -6,29 +6,15 @@ weight = 50
 background = "light" # can influence the text color
 particles = true
 
-title = "Syna Theme"
-subtitle = "Showcase your next project"
+title = "Starling Foundries"
+#subtitle = "Showcase your next project"
 
 [header]
-  image = "header.jpg"
+  image = "header_hd.jpg"
 
 [asset]
-  image = "logo.svg"
+  image = "starling_logo_try.png"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
-[[buttons]]
-  text = "Features"
-  url = "#features"
-  color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
-
-[[buttons]]
-  text = "Getting Started"
-  url = "/docs/"
-  color = "primary"
-
-[[buttons]]
-  text = "Fragments"
-  url = "#fragments"
-  color = "dark"
 +++

@@ -1,7 +1,7 @@
 +++
 fragment = "items"
 weight = 120
-background = "light"
+background = "secondary"
 
 title = "Services"
 #subtitle= ""

@@ -6,4 +6,4 @@ weight = 10
   icon = "fas fa-handshake"
 +++
 
-Smart Contract Development for the Ethereum and Zilliqa Blockchains
+We offer deployment of standards-based smart contracts and tokens for the Ethereum and Zilliqa Blockchains.

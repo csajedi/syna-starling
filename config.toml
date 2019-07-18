@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Starling Foundries"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.0"
@@ -17,8 +17,8 @@ date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Starling Foundries LLC"
+  description = "A consulting firm for web 3.0"
 
   [params.style]
     #background = "secondary"
@@ -46,14 +46,14 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#00838F"
-    secondary = "#868e96"
+    primary = "#19404F"
+    secondary = "#5F796E"
     success = "#008f54"
     info = "#00c9dc"
     warning = "#fdf314"
     danger = "#dc1200"
-    light = "#f8f9fa"
-    dark = "#343a40"
+    light = "#F2DCA2"
+    dark = "#5D3F23"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
@@ -74,34 +74,9 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.main]]
-  url = "/docs"
-  name = "Docs"
+  url = "/"
+  name = "Blog"
   weight = 40
-
-[[menu.footer]]
-  url = "#"
-  name = "Link"
-  weight = 10
-
-[[menu.footer]]
-  url = "#"
-  name = "Long Link"
-  weight = 30
-
-[[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
-  weight = 30
-
-[[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
-  weight = 10
-
-[[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
-  weight = 30
 
 [[menu.footer_social]]
   weight = 20
@@ -110,7 +85,13 @@ lastmod = ["lastmod", ":git", "date"]
   url = "#"
 
 [[menu.footer_social]]
-  weight = 30
+  weight = 40
   name = "linkedin"
   pre = "fab fa-linkedin-in"
+  url = "#"
+
+[[menu.footer_social]]
+  weight = 30
+  name = "twitter"
+  pre = "fab fa-twitter"
   url = "#"

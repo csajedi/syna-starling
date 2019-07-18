@@ -1,5 +1,5 @@
 +++
-title = "Tokenomics: Simulation and Modeling"
+title = "Tokenomics"
 weight = 20
 
 [asset]
