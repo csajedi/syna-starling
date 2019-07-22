@@ -74,24 +74,24 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.main]]
-  url = "/"
+  url = "https://medium.com/starling-foundries"
   name = "Blog"
   weight = 40
 
 [[menu.footer_social]]
   weight = 20
-  name = "facebook"
-  pre = "fab fa-facebook-f"
-  url = "#"
+  name = "Medium"
+  pre = "fab fa-medium-m"
+  url = "https://medium.com/starling-foundries"
 
 [[menu.footer_social]]
   weight = 40
   name = "linkedin"
   pre = "fab fa-linkedin-in"
-  url = "#"
+  url = "www.linkedin.com/in/cameron-sajedi"
 
 [[menu.footer_social]]
   weight = 30
   name = "twitter"
   pre = "fab fa-twitter"
-  url = "#"
+  url = "www.twitter.com/CSajedi"

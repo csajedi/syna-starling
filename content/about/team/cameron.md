@@ -4,26 +4,28 @@ weight = 0
 date = "2017-10-17"
 
 position = "Founder"
-lives_in = "[Munich, Germany](https://www.google.com/maps/place/Munich,+Germany/)"
+lives_in = "[Virginia, USA](https://www.google.com/maps/place/WashingtonDC,+USA/)"
 scope = [
-  "Technical Consultant for [Prception.travel](#)",
-  "Maintainer of [Metatransactions for Zilliqa](#)",
-  "Scientific Computing Expert"
+  "Technical Consultant for [Prcption.travel](https://perceptiontravel.tv/)",
+  "Maintainer of [Metatransactions for Zilliqa](https://github.com/starling-foundries)",
+  "Scientific Computing Expert",
+  "Research Lead for [Generation Blue](https://www.generation.blue)"
 ]
 
 [[icons]]
   icon = "fab fa-linkedin-in"
-  url = "#"
+  url = "https://www.linkedin.com/in/cameron-sajedi/"
+[[icons]]
+  icon = "fab fa-twitter"
+  url = "https://twitter.com/CSajedi"
+
+[[icons]]
+  icon = "fab fa-github"
+  url = "https://github.com/csajedi"
+
 
 [asset]
-  image = "hugegopher.png"
+  image = "me_art.png"
 +++
 
-Hugely huge Gopher
-
-Some more text to showcase the capabilities:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Curabitur a lorem urna.
-Quisque in neque malesuada, sollicitudin nunc porttitor, ornare est.
-Praesent ante enim, bibendum sed hendrerit et, iaculis laoreet felis.
-Morbi efficitur dui sit amet orci porttitor, nec tincidunt turpis elementum.
+Cameron applies his scientific background to complex problems from the Earth & Environment. His technical skills include a wide range of successful research and engineering projects. Most recently his interest in distributed systems and human coordination have driven him to explore applications of blockchains in the realm of increasing human collaboration.
