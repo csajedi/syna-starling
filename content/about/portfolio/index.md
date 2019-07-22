@@ -3,7 +3,7 @@ fragment = "items"
 #disabled = false
 date = "2017-10-04"
 weight = 130
-background = "primary"
+background = "secondary"
 
 title = "Projects"
 #subtitle= "Column based items with images"
