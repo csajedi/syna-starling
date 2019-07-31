@@ -13,7 +13,7 @@ title = "Starling Foundries"
   image = "header_hd.jpg"
 
 [asset]
-  image = "starling_logo_try.png"
+  image = "2pixellated-starling.png"
   width = "500px" # optional - will default to image width
   #height = "150px" # optional - will default to image height
 
