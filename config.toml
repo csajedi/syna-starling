@@ -28,8 +28,6 @@ lastmod = ["lastmod", ":git", "date"]
   [params.custom]
     favicon = "favicon.ico"
     favicon_ico_sizes = "16x16 32x32"
-    favicon_png = "favicon.png"
-    favicon_svg = "favicon.svg"
 
   # Piwik tracking
   [params.analytics.piwik]
@@ -50,7 +48,7 @@ lastmod = ["lastmod", ":git", "date"]
     secondary = "#5F796E"
     success = "#008f54"
     info = "#00c9dc"
-    warning = "#fdf314"
+    warning = "#5D3F23"
     danger = "#dc1200"
     light = "#C0C0C0"
     dark = "#A9A9A9"
