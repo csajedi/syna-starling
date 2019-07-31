@@ -12,6 +12,6 @@ background = "primary"
 
 # Branding options
 [asset]
-  image = "starling_logo_mini.png"
+  image = "2pixellated-starling.png"
   text = "Starlings"
 +++
