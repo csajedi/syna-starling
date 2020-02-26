@@ -55,13 +55,8 @@ lastmod = ["lastmod", ":git", "date"]
     info = "#00c9dc"
     warning = "#5D3F23"
     danger = "#dc1200"
-<<<<<<< HEAD
     light = "#C0C0C0"
     dark = "#A9A9A9"
-=======
-    light = "#FCF6E8"
-    dark = "#3A2716"
->>>>>>> d05fbeb21874ff6667c09932d0d04212c4a945c7
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
@@ -96,10 +91,10 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 40
   name = "linkedin"
   pre = "fab fa-linkedin-in"
-  url = "www.linkedin.com/in/cameron-sajedi"
+  url = "https://linkedin.com/in/cameron-sajedi"
 
 [[menu.footer_social]]
   weight = 30
   name = "twitter"
   pre = "fab fa-twitter"
-  url = "www.twitter.com/CSajedi"
+  url = "https://twitter.com/csajedi"
