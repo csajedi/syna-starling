@@ -3,7 +3,7 @@ fragment = "content"
 #disabled = true
 date = "2019-07-05"
 weight = 100
-#background = ""
+#background = "light"
 
 title = "Our Philsophy"
 #subtitle = ""

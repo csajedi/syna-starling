@@ -26,7 +26,7 @@ lastmod = ["lastmod", ":git", "date"]
   description = "A consulting firm for web 3.0"
 
   [params.style]
-    #background = "secondary"
+    background = "info"
 
   # Theme customizations
   # Assets relative to 'static/'
@@ -49,14 +49,15 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#A9A9A9"
-    secondary = "#5F796E"
+    primary = "#1e5246"
+    secondary = "#f8f8f8"
     success = "#008f54"
-    info = "#00c9dc"
+    info = "#002546"
     warning = "#5D3F23"
     danger = "#dc1200"
-    light = "#C0C0C0"
-    dark = "#A9A9A9"
+    light = "#f8f8f8"
+    dark = "#4b3b47"
+    contact = "#ba9a3b"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
